@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sahyog2/static/css/main.79c18a6d.chunk.css",
+    "main.js": "/Sahyog2/static/js/main.9e637faa.chunk.js",
+    "main.js.map": "/Sahyog2/static/js/main.9e637faa.chunk.js.map",
+    "runtime-main.js": "/Sahyog2/static/js/runtime-main.94708999.js",
+    "runtime-main.js.map": "/Sahyog2/static/js/runtime-main.94708999.js.map",
+    "static/js/2.136bb08f.chunk.js": "/Sahyog2/static/js/2.136bb08f.chunk.js",
+    "static/js/2.136bb08f.chunk.js.map": "/Sahyog2/static/js/2.136bb08f.chunk.js.map",
+    "index.html": "/Sahyog2/index.html",
+    "precache-manifest.60c8fb625d4dd9b6b879b42370052046.js": "/Sahyog2/precache-manifest.60c8fb625d4dd9b6b879b42370052046.js",
+    "service-worker.js": "/Sahyog2/service-worker.js",
+    "static/css/main.79c18a6d.chunk.css.map": "/Sahyog2/static/css/main.79c18a6d.chunk.css.map",
+    "static/js/2.136bb08f.chunk.js.LICENSE.txt": "/Sahyog2/static/js/2.136bb08f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94708999.js",
+    "static/js/2.136bb08f.chunk.js",
+    "static/css/main.79c18a6d.chunk.css",
+    "static/js/main.9e637faa.chunk.js"
+  ]
+}
